@@ -11,3 +11,13 @@ is_married = False
 in_relationship = True
 theme_preferred = "Dark"
 
+print(type(first_name))
+print(type(last_name))
+print(type(full_name))
+print(type(country))
+print(type(city))
+print(type(age))
+print(type(birth_year))
+print(type(is_married))
+print(type(in_relationship))
+print(type(theme_preferred))
