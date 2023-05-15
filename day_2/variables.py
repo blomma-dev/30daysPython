@@ -42,3 +42,10 @@ division = num_one / num_two
 remainder = num_two % num_one
 exp = num_one ** num_two
 floor_division = num_one // num_two
+
+# taking user inout and assigning it to a variable
+
+prompt_firstName = input("What is you first name? ")
+prompt_lastName = input("What is your last name? ")
+prompt_country = input("What country do you live in? ")
+prompt_age = input("How old are you? ")
