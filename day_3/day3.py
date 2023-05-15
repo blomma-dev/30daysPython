@@ -9,3 +9,8 @@ height = input("Enter the height of the triangle: ")
 area = 0.5 * int(base) * int(height)
 print("The area of the triangle is: " + str(area))
 
+# pay calculator
+hours = input("Enter the number of hours worked: ")
+rate = input("Enter the rate per hour: ")
+pay = int(hours) * int(rate)
+print("Your pay is: " + str(pay))
